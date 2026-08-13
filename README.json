@@ -1,0 +1,176 @@
+{
+  "items": [
+    {
+      "description": "Portals and data sources that provide access to Swiss Open Government Data.",
+      "items": [],
+      "title": "Data Sources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "National"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Geo Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "geospatial-data-catalogs",
+          "description": "A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T05:24:15Z",
+            "owner": "opengeos",
+            "repo": "geospatial-data-catalogs",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoHarvester",
+          "description": "Portal that brings together official geodata from Swiss government entities. [GitHub]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T08:53:00Z",
+            "owner": "davidoesch",
+            "repo": "geoservice_harvester_poc",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Miscellaneous Geo Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "swissparlpy",
+          "description": "Python client for the Swiss Parliament's open-data web services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T09:49:30Z",
+            "owner": "metaodi",
+            "repo": "swissparlpy",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BFS",
+          "description": "R package for searching and downloading data from Federal Statistical Office APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-03T14:23:28Z",
+            "owner": "lgnbhl",
+            "repo": "BFS",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adminR Code Base",
+          "description": "Curated list of R packages and reusable R code created by Swiss public institutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-25T07:47:37Z",
+            "owner": "swiss-adminR",
+            "repo": "pkgs",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "I14Y",
+          "description": "R package for searching Switzerland's official interoperability metadata catalog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-11T10:48:23Z",
+            "owner": "lgnbhl",
+            "repo": "I14Y",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Open-source Tools"
+    },
+    {
+      "description": "International sources retained here are limited to cross-border datasets, neighboring jurisdictions, and resources that are directly useful for Swiss comparisons.",
+      "items": [],
+      "title": "International"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Public Datasets",
+          "description": "GitHub list with many more links to public government datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T19:54:53Z",
+            "owner": "awesomedata",
+            "repo": "awesome-public-datasets",
+            "stars": 78067
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Transit",
+          "description": "Community list of transit APIs, apps, datasets, research, and software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T14:45:42Z",
+            "owner": "MobilityData",
+            "repo": "awesome-transit",
+            "stars": 1816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OKFN Data Portals [Website",
+          "description": "] [GitHub repo] - Very large, comprehensive list of data sources maintained by the Open Knowledge Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nunjucks",
+            "last_commit": "2026-08-11T19:04:10Z",
+            "owner": "okfn",
+            "repo": "dataportals.org",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Curated lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:32.140Z",
+    "original_repository": "rnckp/awesome-ogd-switzerland",
+    "original_repository_sha": "84c5ad633d988ac18b03079e378cae412ad7f990",
+    "enhanced_repository": "enhansome/enhansome-ogd-switzerland",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open Government Data Switzerland with stars"
+  }
+}
