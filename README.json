@@ -26,10 +26,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T05:24:15Z",
+            "last_commit": "2026-08-13T05:24:25Z",
             "owner": "opengeos",
             "repo": "geospatial-data-catalogs",
-            "stars": 659
+            "stars": 660
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78067
+            "stars": 78088
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-07-24T14:45:42Z",
             "owner": "MobilityData",
             "repo": "awesome-transit",
-            "stars": 1816
+            "stars": 1818
           }
         },
         {
@@ -166,7 +166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:14:32.140Z",
+    "last_updated": "2026-08-14T05:17:59.798Z",
     "original_repository": "rnckp/awesome-ogd-switzerland",
     "original_repository_sha": "84c5ad633d988ac18b03079e378cae412ad7f990",
     "enhanced_repository": "enhansome/enhansome-ogd-switzerland",
