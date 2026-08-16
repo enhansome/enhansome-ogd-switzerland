@@ -26,7 +26,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:24:11Z",
+            "last_commit": "2026-08-15T05:01:26Z",
             "owner": "opengeos",
             "repo": "geospatial-data-catalogs",
             "stars": 660
@@ -40,7 +40,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T08:53:00Z",
+            "last_commit": "2026-08-16T03:56:08Z",
             "owner": "davidoesch",
             "repo": "geoservice_harvester_poc",
             "stars": 5
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78094
+            "stars": 78104
           }
         },
         {
@@ -180,7 +180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:06:19.976Z",
+    "last_updated": "2026-08-16T04:11:59.045Z",
     "original_repository": "rnckp/awesome-ogd-switzerland",
     "original_repository_sha": "3aa83ddd93b142284c53e66cbde7e305877f4776",
     "enhanced_repository": "enhansome/enhansome-ogd-switzerland",
