@@ -26,7 +26,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T05:03:49Z",
+            "last_commit": "2026-08-17T05:07:44Z",
             "owner": "opengeos",
             "repo": "geospatial-data-catalogs",
             "stars": 660
@@ -68,6 +68,20 @@
         },
         {
           "node_type": "item",
+          "title": "BFS",
+          "description": "R package for searching and downloading data from Federal Statistical Office APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-03T14:23:28Z",
+            "owner": "lgnbhl",
+            "repo": "BFS",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
           "title": "swissparlpy",
           "description": "Python client for the Swiss Parliament's open-data web services.",
           "children": [],
@@ -78,20 +92,6 @@
             "owner": "metaodi",
             "repo": "swissparlpy",
             "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BFS",
-          "description": "R package for searching and downloading data from Federal Statistical Office APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-07-03T14:23:28Z",
-            "owner": "lgnbhl",
-            "repo": "BFS",
-            "stars": 25
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78119
+            "stars": 78129
           }
         },
         {
@@ -180,7 +180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:22:07.788Z",
+    "last_updated": "2026-08-18T04:17:28.481Z",
     "original_repository": "rnckp/awesome-ogd-switzerland",
     "original_repository_sha": "3aa83ddd93b142284c53e66cbde7e305877f4776",
     "enhanced_repository": "enhansome/enhansome-ogd-switzerland",
