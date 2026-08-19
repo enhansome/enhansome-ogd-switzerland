@@ -263,7 +263,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 ### Miscellaneous Geo Data
 
-* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 660 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
+* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 660 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
 * [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) - Portal that brings together official geodata from Swiss government entities. \[[GitHub](https://github.com/davidoesch/geoservice_harvester_poc) ⭐ 5 | 🐛 17 | 🌐 Python | 📅 2026-08-16]
 * [GeoBeer Switzerland](https://geobeer.ch/) - GeoBeerCH is an informal meeting of people interested in geography, GIS, cartography and the latest technologies.
 
@@ -343,7 +343,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 Swiss data journalism teams.
 
-* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 57 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-18 - Repository containing methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
+* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 57 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-19 - Repository containing methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
 * [SRF Data](https://srfdata.github.io/) - Code and data from SRF Data, the data-driven journalism unit of Swiss Radio and TV (SRF) [\[Publications and projects\]](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team [\[Projects of Ressort «Daten & Interaktiv»\]](https://interaktiv.tagesanzeiger.ch/).
 

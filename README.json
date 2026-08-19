@@ -1,56 +1,50 @@
 {
   "items": [
     {
-      "description": "Portals and data sources that provide access to Swiss Open Government Data.",
-      "items": [],
-      "title": "Data Sources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "National"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "geospatial-data-catalogs",
+              "description": "A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581298174,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:05:07Z",
+                "owner": "opengeos",
+                "repo": "geospatial-data-catalogs",
+                "stars": 660
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeoHarvester",
+              "description": "Portal that brings together official geodata from Swiss government entities. [GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 555328359,
+                "language": "Python",
+                "last_commit": "2026-08-16T08:37:24Z",
+                "owner": "davidoesch",
+                "repo": "geoservice_harvester_poc",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous Geo Data"
+        }
+      ],
       "title": "Geo Data"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "geospatial-data-catalogs",
-          "description": "A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:04:43Z",
-            "owner": "opengeos",
-            "repo": "geospatial-data-catalogs",
-            "stars": 660
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GeoHarvester",
-          "description": "Portal that brings together official geodata from Swiss government entities. [GitHub]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T08:37:24Z",
-            "owner": "davidoesch",
-            "repo": "geoservice_harvester_poc",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Miscellaneous Geo Data"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -59,6 +53,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811515419,
             "language": null,
             "last_commit": "2026-06-11T07:04:37Z",
             "owner": "swiss",
@@ -73,6 +68,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110094137,
             "language": "R",
             "last_commit": "2026-07-03T14:23:28Z",
             "owner": "lgnbhl",
@@ -87,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410685015,
             "language": "Python",
             "last_commit": "2026-08-11T09:49:30Z",
             "owner": "metaodi",
@@ -101,6 +98,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 387813191,
             "language": null,
             "last_commit": "2022-10-25T07:47:37Z",
             "owner": "swiss-adminR",
@@ -115,6 +113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 911200268,
             "language": "R",
             "last_commit": "2026-07-11T10:48:23Z",
             "owner": "lgnbhl",
@@ -127,61 +126,67 @@
     },
     {
       "description": "International sources retained here are limited to cross-border datasets, neighboring jurisdictions, and resources that are directly useful for Swiss comparisons.",
-      "items": [],
-      "title": "International"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome Public Datasets",
-          "description": "GitHub list with many more links to public government datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-04T19:54:53Z",
-            "owner": "awesomedata",
-            "repo": "awesome-public-datasets",
-            "stars": 78143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Transit",
-          "description": "Community list of transit APIs, apps, datasets, research, and software.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-24T14:45:42Z",
-            "owner": "MobilityData",
-            "repo": "awesome-transit",
-            "stars": 1819
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OKFN Data Portals [Website",
-          "description": "] [GitHub repo] - Very large, comprehensive list of data sources maintained by the Open Knowledge Foundation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nunjucks",
-            "last_commit": "2026-08-18T13:20:29Z",
-            "owner": "okfn",
-            "repo": "dataportals.org",
-            "stars": 169
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Public Datasets",
+              "description": "GitHub list with many more links to public government datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26898879,
+                "language": null,
+                "last_commit": "2026-08-04T19:54:53Z",
+                "owner": "awesomedata",
+                "repo": "awesome-public-datasets",
+                "stars": 78143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Transit",
+              "description": "Community list of transit APIs, apps, datasets, research, and software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40631174,
+                "language": null,
+                "last_commit": "2026-07-24T14:45:42Z",
+                "owner": "MobilityData",
+                "repo": "awesome-transit",
+                "stars": 1819
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OKFN Data Portals [Website",
+              "description": "] [GitHub repo] - Very large, comprehensive list of data sources maintained by the Open Knowledge Foundation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7642345,
+                "language": "Nunjucks",
+                "last_commit": "2026-08-18T13:20:29Z",
+                "owner": "okfn",
+                "repo": "dataportals.org",
+                "stars": 169
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Curated lists"
         }
       ],
-      "title": "Curated lists"
+      "title": "International"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:18:05.038Z",
+    "last_updated": "2026-08-19T12:45:15.072Z",
     "original_repository": "rnckp/awesome-ogd-switzerland",
+    "original_repository_id": 565448438,
     "original_repository_sha": "3aa83ddd93b142284c53e66cbde7e305877f4776",
     "enhanced_repository": "enhansome/enhansome-ogd-switzerland",
     "enhanced_repository_description": null,
