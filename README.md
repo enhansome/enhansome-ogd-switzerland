@@ -432,7 +432,7 @@ International sources retained here are limited to cross-border datasets, neighb
 
 ### Curated lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) ⭐ 78,143 | 🐛 159 | 📅 2026-08-04 - GitHub list with many more links to public government datasets.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) ⭐ 78,152 | 🐛 159 | 📅 2026-08-04 - GitHub list with many more links to public government datasets.
 * [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit) ⭐ 1,819 | 🐛 18 | 📅 2026-07-24 - Community list of transit APIs, apps, datasets, research, and software.
 * OKFN Data Portals \[[Website](https://dataportals.org/)] \[[GitHub repo](https://github.com/okfn/dataportals.org) ⭐ 169 | 🐛 82 | 🌐 Nunjucks | 📅 2026-08-18] - Very large, comprehensive list of data sources maintained by the [Open Knowledge Foundation](https://okfn.org/).
 
@@ -464,4 +464,4 @@ Catalogs containing restricted records must say so explicitly. Free-to-view serv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
