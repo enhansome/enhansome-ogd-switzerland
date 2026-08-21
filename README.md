@@ -263,7 +263,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 ### Miscellaneous Geo Data
 
-* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 660 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
+* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 660 | 🐛 0 | 🌐 Python | 📅 2026-08-20 - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
 * [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) - Portal that brings together official geodata from Swiss government entities. \[[GitHub](https://github.com/davidoesch/geoservice_harvester_poc) ⭐ 5 | 🐛 17 | 🌐 Python | 📅 2026-08-16]
 * [GeoBeer Switzerland](https://geobeer.ch/) - GeoBeerCH is an informal meeting of people interested in geography, GIS, cartography and the latest technologies.
 
@@ -289,7 +289,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 * [Overpass API (with PostPASS SQL)](https://wiki.openstreetmap.org/wiki/Postpass) - Overpass API for worldwide OpenStreetMap geospatial vector data with PostGIS SQL. Query example: "Italian restaurants in Switzerland" using instance [overpass-turbo.eu](https://overpass-turbo.eu/s/2qpD).
 * [SRGSSR](https://developer.srgssr.ch/) - APIs of the publicly funded broadcaster in Switzerland.
 * [CKAN API documentation](https://docs.ckan.org/en/latest/api/)
-* [OpenERZ](https://github.com/metaodi/openerz) ⭐ 33 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-11 - OpenERZ is an open API for waste collection data from many different municipalities in Switzerland (e.g., Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, and Horgen). API and Python client provided by OGD wizard [metaodi](https://github.com/metaodi), aka Stefan Oderbolz.
+* [OpenERZ](https://github.com/metaodi/openerz) ⭐ 33 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-20 - OpenERZ is an open API for waste collection data from many different municipalities in Switzerland (e.g., Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, and Horgen). API and Python client provided by OGD wizard [metaodi](https://github.com/metaodi), aka Stefan Oderbolz.
 * [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is an open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein, and Switzerland available via an open REST API interface.
 * [OpenHolidays API](https://www.openholidaysapi.org/en/) - Open Data project that collects public holiday and school holiday data and makes them available via an open REST API interface.
 
@@ -297,7 +297,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 * [Federal Open Source GitHub Index](https://github.com/swiss/index) ⭐ 32 | 🐛 0 | 📅 2026-06-11 - An overview of the current GitHub organisations maintained by the Swiss Confederation.
 * [BFS](https://github.com/lgnbhl/BFS) ⭐ 26 | 🐛 4 | 🌐 R | 📅 2026-07-03 - R package for searching and downloading data from Federal Statistical Office APIs.
-* [swissparlpy](https://github.com/metaodi/swissparlpy) ⭐ 26 | 🐛 6 | 🌐 Python | 📅 2026-08-11 - Python client for the Swiss Parliament's open-data web services.
+* [swissparlpy](https://github.com/metaodi/swissparlpy) ⭐ 26 | 🐛 7 | 🌐 Python | 📅 2026-08-11 - Python client for the Swiss Parliament's open-data web services.
 * [adminR Code Base](https://github.com/swiss-adminR/pkgs) ⭐ 9 | 🐛 2 | 📅 2022-10-25 - Curated list of R packages and reusable R code created by Swiss public institutions.
 * [I14Y](https://github.com/lgnbhl/I14Y) ⭐ 2 | 🐛 0 | 🌐 R | 📅 2026-07-11 - R package for searching Switzerland's official interoperability metadata catalog.
 * [Swiss federal OSS catalog](https://www.opensource.admin.ch/) - Official catalog of software published by federal and cantonal authorities, with repository and license information.
@@ -343,7 +343,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 Swiss data journalism teams.
 
-* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 57 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-19 - Repository containing methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
+* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 57 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-20 - Repository containing methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
 * [SRF Data](https://srfdata.github.io/) - Code and data from SRF Data, the data-driven journalism unit of Swiss Radio and TV (SRF) [\[Publications and projects\]](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team [\[Projects of Ressort «Daten & Interaktiv»\]](https://interaktiv.tagesanzeiger.ch/).
 
@@ -432,7 +432,7 @@ International sources retained here are limited to cross-border datasets, neighb
 
 ### Curated lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) ⭐ 78,152 | 🐛 159 | 📅 2026-08-04 - GitHub list with many more links to public government datasets.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) ⭐ 78,324 | 🐛 159 | 📅 2026-08-04 - GitHub list with many more links to public government datasets.
 * [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit) ⭐ 1,819 | 🐛 18 | 📅 2026-07-24 - Community list of transit APIs, apps, datasets, research, and software.
 * OKFN Data Portals \[[Website](https://dataportals.org/)] \[[GitHub repo](https://github.com/okfn/dataportals.org) ⭐ 169 | 🐛 82 | 🌐 Nunjucks | 📅 2026-08-18] - Very large, comprehensive list of data sources maintained by the [Open Knowledge Foundation](https://okfn.org/).
 
@@ -447,7 +447,7 @@ International sources retained here are limited to cross-border datasets, neighb
 * [Worldbank](https://data.worldbank.org/country/CH) - Data about Switzerland.
 * [Our World in Data](https://ourworldindata.org/search?q=switzerland) - Data about Switzerland.
 * [Open Data Watch](https://odin.opendatawatch.com/Report/) - Open data rankings and much more.
-* [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon) ⭐ 288 | 🐛 2 | 📅 2026-05-05 - Recommendations for crowdsourcing tools, primarily from the open data community.
+* [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon) ⭐ 289 | 🐛 2 | 📅 2026-05-05 - Recommendations for crowdsourcing tools, primarily from the open data community.
 
 ## Contribute
 
@@ -464,4 +464,4 @@ Catalogs containing restricted records must say so explicitly. Free-to-view serv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
