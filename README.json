@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 581298174,
                 "language": "Python",
-                "last_commit": "2026-08-20T05:05:51Z",
+                "last_commit": "2026-08-21T05:06:12Z",
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
                 "stars": 660
@@ -138,10 +138,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-04T19:54:53Z",
+                "last_commit": "2026-08-21T17:12:16Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78324
+                "stars": 78403
               }
             },
             {
@@ -184,7 +184,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:19:24.877Z",
+    "last_updated": "2026-08-22T04:09:01.710Z",
     "original_repository": "rnckp/awesome-ogd-switzerland",
     "original_repository_id": 565448438,
     "original_repository_sha": "3aa83ddd93b142284c53e66cbde7e305877f4776",
