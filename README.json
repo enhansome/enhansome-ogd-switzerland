@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 581298174,
                 "language": "Python",
-                "last_commit": "2026-08-23T05:04:42Z",
+                "last_commit": "2026-08-24T05:08:37Z",
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
                 "stars": 661
@@ -141,7 +141,7 @@
                 "last_commit": "2026-08-23T23:52:17Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78561
+                "stars": 78583
               }
             },
             {
@@ -178,13 +178,35 @@
           "description": null,
           "node_type": "group",
           "title": "Curated lists"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Hackathon",
+              "description": "Recommendations for crowdsourcing tools, primarily from the open data community.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292300366,
+                "language": null,
+                "last_commit": "2026-05-05T17:45:20Z",
+                "owner": "dribdat",
+                "repo": "awesome-hackathon",
+                "stars": 289
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         }
       ],
       "title": "International"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:24:45.089Z",
+    "last_updated": "2026-08-24T14:33:18.944Z",
     "original_repository": "rnckp/awesome-ogd-switzerland",
     "original_repository_id": 565448438,
     "original_repository_sha": "3aa83ddd93b142284c53e66cbde7e305877f4776",
