@@ -138,10 +138,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-23T23:52:17Z",
+                "last_commit": "2026-08-24T19:56:43Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78583
+                "stars": 78602
               }
             },
             {
@@ -156,7 +156,7 @@
                 "last_commit": "2026-07-24T14:45:42Z",
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1820
+                "stars": 1821
               }
             },
             {
@@ -206,7 +206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:18.944Z",
+    "last_updated": "2026-08-25T04:18:55.864Z",
     "original_repository": "rnckp/awesome-ogd-switzerland",
     "original_repository_id": 565448438,
     "original_repository_sha": "3aa83ddd93b142284c53e66cbde7e305877f4776",
