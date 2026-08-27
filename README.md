@@ -4,7 +4,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland) ⭐ 175 | 🐛 0 | 🌐 Python | 📅 2026-08-14
 [![GitHub Issues](https://img.shields.io/github/issues-pr/rnckp/awesome-ogd-switzerland.svg)](https://img.shields.io/github/issues-pr/rnckp/awesome-ogd-switzerland)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[<img alt="linting - Ruff" class="off-glb" loading="lazy" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json">](https://github.com/astral-sh/ruff) ⭐ 49,351 | 🐛 2,158 | 🌐 Rust | 📅 2026-08-27
+[<img alt="linting - Ruff" class="off-glb" loading="lazy" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json">](https://github.com/astral-sh/ruff) ⭐ 49,359 | 🐛 2,163 | 🌐 Rust | 📅 2026-08-27
 
 A manually curated list of Open Government Data (OGD) portals, websites, APIs, tools, and related resources in Switzerland. Selected international links support Swiss comparisons.
 
@@ -433,7 +433,7 @@ International sources retained here are limited to cross-border datasets, neighb
 
 ### Curated lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) ⭐ 78,670 | 🐛 159 | 📅 2026-08-26 - GitHub list with many more links to public government datasets.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) ⭐ 78,674 | 🐛 159 | 📅 2026-08-26 - GitHub list with many more links to public government datasets.
 * [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit) ⭐ 1,822 | 🐛 20 | 📅 2026-07-24 - Community list of transit APIs, apps, datasets, research, and software.
 * OKFN Data Portals \[[Website](https://dataportals.org/)] \[[GitHub repo](https://github.com/okfn/dataportals.org) ⭐ 169 | 🐛 84 | 🌐 Nunjucks | 📅 2026-08-18] - Very large, comprehensive list of data sources maintained by the [Open Knowledge Foundation](https://okfn.org/).
 
