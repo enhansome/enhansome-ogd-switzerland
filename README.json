@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 581298174,
                 "language": "Python",
-                "last_commit": "2026-08-27T07:22:09Z",
+                "last_commit": "2026-08-28T07:24:15Z",
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
                 "stars": 661
-              }
+              },
+              "first_seen": "2026-08-28T15:37:42.708Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "davidoesch",
                 "repo": "geoservice_harvester_poc",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T15:37:42.708Z"
             }
           ],
           "description": null,
@@ -59,7 +61,8 @@
             "owner": "swiss",
             "repo": "index",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T15:37:42.708Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "lgnbhl",
             "repo": "BFS",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T15:37:42.708Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "metaodi",
             "repo": "swissparlpy",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T15:37:42.708Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "swiss-adminR",
             "repo": "pkgs",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:37:42.708Z"
         },
         {
           "node_type": "item",
@@ -119,7 +125,8 @@
             "owner": "lgnbhl",
             "repo": "I14Y",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:37:42.708Z"
         }
       ],
       "title": "Open-source Tools"
@@ -138,11 +145,12 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-26T21:15:40Z",
+                "last_commit": "2026-08-28T15:35:24Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78674
-              }
+                "stars": 78688
+              },
+              "first_seen": "2026-08-28T15:37:42.708Z"
             },
             {
               "node_type": "item",
@@ -157,7 +165,8 @@
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
                 "stars": 1822
-              }
+              },
+              "first_seen": "2026-08-28T15:37:42.708Z"
             },
             {
               "node_type": "item",
@@ -172,7 +181,8 @@
                 "owner": "okfn",
                 "repo": "dataportals.org",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T15:37:42.708Z"
             }
           ],
           "description": null,
@@ -194,7 +204,8 @@
                 "owner": "dribdat",
                 "repo": "awesome-hackathon",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-28T15:37:42.708Z"
             }
           ],
           "description": null,
@@ -206,7 +217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:34:17.006Z",
+    "last_updated": "2026-08-28T15:37:42.708Z",
     "original_repository_info": {
       "archived": false,
       "id": 565448438,
