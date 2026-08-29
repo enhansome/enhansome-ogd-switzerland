@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index",
+                "homepage": null,
                 "id": 581298174,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T07:24:15Z",
+                "open_issues": 0,
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
-                "stars": 661
+                "stars": 661,
+                "topics": [
+                  "amazon",
+                  "aws",
+                  "cloud-computing",
+                  "earth-engine",
+                  "geospatial",
+                  "geospatial-data",
+                  "nasa-data",
+                  "opan-data",
+                  "open-access",
+                  "satellite-imagery"
+                ]
               },
               "first_seen": "2026-08-28T15:37:42.708Z"
             },
@@ -28,12 +44,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Geoservice scraper proof of concept to extract info of each dataset contained in an OGC  compliant Geoservice",
+                "homepage": null,
                 "id": 555328359,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T08:38:36Z",
+                "open_issues": 17,
                 "owner": "davidoesch",
                 "repo": "geoservice_harvester_poc",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:42.708Z"
             }
@@ -55,12 +76,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An overview of current repository organisations.",
+            "homepage": null,
             "id": 811515419,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-25T07:35:45Z",
+            "open_issues": 0,
             "owner": "swiss",
             "repo": "index",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:42.708Z"
         },
@@ -71,12 +97,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇨🇭Search and Download Data from the Swiss Federal Statistical Office",
+            "homepage": "https://lgnbhl.github.io/BFS",
             "id": 110094137,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-03T14:23:28Z",
+            "open_issues": 4,
             "owner": "lgnbhl",
             "repo": "BFS",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "r",
+              "r-package",
+              "switzerland"
+            ]
           },
           "first_seen": "2026-08-28T15:37:42.708Z"
         },
@@ -87,12 +122,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wrapper for the Swiss Parliament API and OpenParlData.ch API for Python",
+            "homepage": "http://metaodi.ch/swissparlpy/",
             "id": 410685015,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-11T09:49:30Z",
+            "open_issues": 7,
             "owner": "metaodi",
             "repo": "swissparlpy",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "api",
+              "api-wrapper",
+              "openparldata",
+              "parliament",
+              "swiss",
+              "swissparl"
+            ]
           },
           "first_seen": "2026-08-28T15:37:42.708Z"
         },
@@ -103,12 +150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of R packages created and used by Swiss public institutions",
+            "homepage": "https://swiss-adminr.github.io/pkgs/",
             "id": 387813191,
             "language": null,
+            "license": null,
             "last_commit": "2022-10-25T07:47:37Z",
+            "open_issues": 2,
             "owner": "swiss-adminR",
             "repo": "pkgs",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:42.708Z"
         },
@@ -119,12 +171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇨🇭Search and get metadata from the I14Y interoperability platform of Switzerland",
+            "homepage": "https://lgnbhl.github.io/I14Y",
             "id": 911200268,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-11T10:48:23Z",
+            "open_issues": 0,
             "owner": "lgnbhl",
             "repo": "I14Y",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:42.708Z"
         }
@@ -143,12 +200,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A topic-centric list of HQ open datasets.",
+                "homepage": "https://awesomedataworld.slack.com",
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-28T15:35:24Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:22:22Z",
+                "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78688
+                "stars": 78694,
+                "topics": [
+                  "aaron-swartz",
+                  "awesome-public-datasets",
+                  "datasets",
+                  "opendata"
+                ]
               },
               "first_seen": "2026-08-28T15:37:42.708Z"
             },
@@ -159,12 +226,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",
+                "homepage": null,
                 "id": 40631174,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-24T14:45:42Z",
+                "open_issues": 20,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1822
+                "stars": 1823,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bus",
+                  "datasets",
+                  "gtfs",
+                  "gtfs-analysis",
+                  "gtfs-converters",
+                  "gtfs-feed",
+                  "gtfs-files",
+                  "gtfs-libraries",
+                  "gtfs-realtime",
+                  "gtfs-utils",
+                  "gtfs-validator",
+                  "list",
+                  "realtime-data",
+                  "tools",
+                  "transit",
+                  "transit-agencies",
+                  "transit-data",
+                  "transit-map"
+                ]
               },
               "first_seen": "2026-08-28T15:37:42.708Z"
             },
@@ -175,12 +268,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Data Portals and Sites around the world",
+                "homepage": "http://dataportals.org/",
                 "id": 7642345,
                 "language": "Nunjucks",
+                "license": null,
                 "last_commit": "2026-08-18T13:20:29Z",
+                "open_issues": 84,
                 "owner": "okfn",
                 "repo": "dataportals.org",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "csv",
+                  "json",
+                  "metadata",
+                  "open-data",
+                  "open-datasets",
+                  "open-knowledge-international"
+                ]
               },
               "first_seen": "2026-08-28T15:37:42.708Z"
             }
@@ -198,12 +303,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platforms, tools, and guides for critical organizers 🌆",
+                "homepage": null,
                 "id": 292300366,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-05-05T17:45:20Z",
+                "open_issues": 2,
                 "owner": "dribdat",
                 "repo": "awesome-hackathon",
-                "stars": 289
+                "stars": 289,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "hackathon",
+                  "hackathons"
+                ]
               },
               "first_seen": "2026-08-28T15:37:42.708Z"
             }
@@ -217,15 +332,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:37:42.708Z",
+    "last_updated": "2026-08-29T04:53:58.729Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
+      "homepage": null,
       "id": 565448438,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-14T12:44:28Z",
+      "open_issues": 0,
       "owner": "rnckp",
       "repo": "awesome-ogd-switzerland",
-      "stars": 175
+      "stars": 175,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ckan",
+        "dcat-ap",
+        "energy-data",
+        "geodata",
+        "geodatasource",
+        "housing-data",
+        "linked-open-data",
+        "mobility-data",
+        "ogd",
+        "open-data",
+        "open-knowledge",
+        "opendata",
+        "opendata-resources",
+        "opendatasets",
+        "openstreetmap",
+        "openstreetmap-data",
+        "statistics",
+        "switzerland"
+      ]
     },
     "original_repository_sha": "3aa83ddd93b142284c53e66cbde7e305877f4776",
     "enhanced_repository": "enhansome/enhansome-ogd-switzerland",
