@@ -17,11 +17,11 @@
                 "id": 581298174,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T04:57:02Z",
+                "last_commit": "2026-09-01T04:56:59Z",
                 "open_issues": 0,
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
-                "stars": 661,
+                "stars": 662,
                 "topics": [
                   "amazon",
                   "aws",
@@ -205,11 +205,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-08-30T18:10:56Z",
+                "last_commit": "2026-08-31T21:34:01Z",
                 "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78742,
+                "stars": 78754,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -235,7 +235,7 @@
                 "open_issues": 21,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1823,
+                "stars": 1824,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -277,7 +277,7 @@
                 "open_issues": 84,
                 "owner": "okfn",
                 "repo": "dataportals.org",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "csv",
                   "json",
@@ -312,7 +312,7 @@
                 "open_issues": 2,
                 "owner": "dribdat",
                 "repo": "awesome-hackathon",
-                "stars": 289,
+                "stars": 291,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:02:50.809Z",
+    "last_updated": "2026-09-01T08:53:11.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
