@@ -17,7 +17,7 @@
                 "id": 581298174,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T04:56:59Z",
+                "last_commit": "2026-09-02T04:56:37Z",
                 "open_issues": 0,
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
@@ -205,11 +205,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-08-31T21:34:01Z",
-                "open_issues": 159,
+                "last_commit": "2026-09-01T18:39:14Z",
+                "open_issues": 157,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78754,
+                "stars": 78760,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -235,7 +235,7 @@
                 "open_issues": 21,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1824,
+                "stars": 1825,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:53:11.831Z",
+    "last_updated": "2026-09-02T08:06:40.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
