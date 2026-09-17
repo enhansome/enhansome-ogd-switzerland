@@ -205,11 +205,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-15T17:25:25Z",
+                "last_commit": "2026-09-16T14:34:55Z",
                 "open_issues": 158,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78974,
+                "stars": 78998,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -235,7 +235,7 @@
                 "open_issues": 22,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1835,
+                "stars": 1837,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -277,7 +277,7 @@
                 "open_issues": 92,
                 "owner": "okfn",
                 "repo": "dataportals.org",
-                "stars": 171,
+                "stars": 172,
                 "topics": [
                   "csv",
                   "json",
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T08:49:01.914Z",
+    "last_updated": "2026-09-17T08:52:39.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
@@ -340,8 +340,8 @@
       "id": 565448438,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-14T12:44:28Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-16T13:38:47Z",
+      "open_issues": 0,
       "owner": "rnckp",
       "repo": "awesome-ogd-switzerland",
       "stars": 176,
@@ -368,7 +368,7 @@
         "switzerland"
       ]
     },
-    "original_repository_sha": "3aa83ddd93b142284c53e66cbde7e305877f4776",
+    "original_repository_sha": "605c9f2af798c4193671413aee004f2813cc98af",
     "enhanced_repository": "enhansome/enhansome-ogd-switzerland",
     "enhanced_repository_description": null,
     "title": "Awesome Open Government Data Switzerland with stars"
