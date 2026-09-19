@@ -205,11 +205,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-17T20:23:43Z",
+                "last_commit": "2026-09-18T21:12:31Z",
                 "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79012,
+                "stars": 79034,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -231,11 +231,11 @@
                 "id": 40631174,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-17T19:11:17Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-18T15:44:17Z",
+                "open_issues": 17,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1838,
+                "stars": 1840,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -312,7 +312,7 @@
                 "open_issues": 3,
                 "owner": "dribdat",
                 "repo": "awesome-hackathon",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T08:28:09.604Z",
+    "last_updated": "2026-09-19T08:15:57.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
