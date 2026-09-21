@@ -49,7 +49,7 @@
                 "id": 555328359,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T07:48:33Z",
+                "last_commit": "2026-09-20T13:00:07Z",
                 "open_issues": 17,
                 "owner": "davidoesch",
                 "repo": "geoservice_harvester_poc",
@@ -209,7 +209,7 @@
                 "open_issues": 160,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79051,
+                "stars": 79073,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -235,7 +235,7 @@
                 "open_issues": 21,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1841,
+                "stars": 1843,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -312,7 +312,7 @@
                 "open_issues": 3,
                 "owner": "dribdat",
                 "repo": "awesome-hackathon",
-                "stars": 300,
+                "stars": 301,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:47:51.141Z",
+    "last_updated": "2026-09-21T09:15:51.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",

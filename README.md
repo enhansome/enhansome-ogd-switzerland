@@ -4,7 +4,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2026-09-16
 [![GitHub Issues](https://img.shields.io/github/issues-pr/rnckp/awesome-ogd-switzerland.svg)](https://img.shields.io/github/issues-pr/rnckp/awesome-ogd-switzerland)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[<img alt="linting - Ruff" class="off-glb" loading="lazy" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json">](https://github.com/astral-sh/ruff) ⭐ 49,701 | 🐛 2,182 | 🌐 Rust | 📅 2026-09-20
+[<img alt="linting - Ruff" class="off-glb" loading="lazy" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json">](https://github.com/astral-sh/ruff) ⭐ 49,714 | 🐛 2,194 | 🌐 Rust | 📅 2026-09-21
 
 A manually curated list of Open Government Data (OGD) portals, websites, APIs, tools, and related resources in Switzerland. Selected international links support Swiss comparisons.
 
@@ -344,7 +344,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 Swiss data journalism teams.
 
-* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 57 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-20 - Repository containing methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
+* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 57 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-21 - Repository containing methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
 * [SRF Data](https://srfdata.github.io/) - Code and data from SRF Data, the data-driven journalism unit of Swiss Radio and TV (SRF) [\[Publications and projects\]](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team [\[Projects of Ressort «Daten & Interaktiv»\]](https://interaktiv.tagesanzeiger.ch/).
 
@@ -433,13 +433,13 @@ International sources retained here are limited to cross-border datasets, neighb
 
 ### Curated lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) ⭐ 79,051 | 🐛 160 | 📅 2026-09-18 - GitHub list with many more links to public government datasets.
-* [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit) ⭐ 1,841 | 🐛 21 | 📅 2026-09-18 - Community list of transit APIs, apps, datasets, research, and software.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) ⭐ 79,073 | 🐛 160 | 📅 2026-09-18 - GitHub list with many more links to public government datasets.
+* [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit) ⭐ 1,843 | 🐛 21 | 📅 2026-09-18 - Community list of transit APIs, apps, datasets, research, and software.
 * OKFN Data Portals \[[Website](https://dataportals.org/)] \[[GitHub repo](https://github.com/okfn/dataportals.org) ⭐ 172 | 🐛 92 | 🌐 Nunjucks | 📅 2026-09-09] - Very large, comprehensive list of data sources maintained by the [Open Knowledge Foundation](https://okfn.org/).
 
 ### Miscellaneous
 
-* [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon) ⭐ 300 | 🐛 3 | 📅 2026-05-05 - Recommendations for crowdsourcing tools, primarily from the open data community.
+* [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon) ⭐ 301 | 🐛 3 | 📅 2026-05-05 - Recommendations for crowdsourcing tools, primarily from the open data community.
 * [Open Data Handbook](https://opendatahandbook.org/) - Guides, case studies, and resources for government and civil society on the *«what, why & how»* of open data. Provided by the [Open Knowledge Foundation](https://okfn.org/).
 * [bund.dev](https://bund.dev/) - «Bundesstelle für Open Data». Very active and influential non-governmental open data initiative \[[GitHub](https://github.com/bundesAPI)].
 * [Greenpeace Open Data Portal](https://daten.greenpeace.de/dataset/)
@@ -465,4 +465,4 @@ Catalogs containing restricted records must say so explicitly. Free-to-view serv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
