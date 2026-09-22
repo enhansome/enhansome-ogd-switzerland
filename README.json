@@ -205,11 +205,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-18T21:12:31Z",
+                "last_commit": "2026-09-21T15:05:16Z",
                 "open_issues": 160,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79073,
+                "stars": 79095,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -231,11 +231,11 @@
                 "id": 40631174,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-18T15:44:17Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-21T16:08:02Z",
+                "open_issues": 16,
                 "owner": "MobilityData",
                 "repo": "awesome-transit",
-                "stars": 1843,
+                "stars": 1846,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -304,12 +304,12 @@
               "repo_info": {
                 "archived": false,
                 "description": "Platforms, tools, and guides for critical organizers 🌆",
-                "homepage": null,
+                "homepage": "https://open-awesome.com/awesome/hackathon",
                 "id": 292300366,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-05-05T17:45:20Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-21T16:58:05Z",
+                "open_issues": 0,
                 "owner": "dribdat",
                 "repo": "awesome-hackathon",
                 "stars": 301,
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T09:15:51.947Z",
+    "last_updated": "2026-09-22T08:46:57.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
