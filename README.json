@@ -205,11 +205,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-22T21:38:11Z",
-                "open_issues": 160,
+                "last_commit": "2026-09-23T17:54:03Z",
+                "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79107,
+                "stars": 79133,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -274,7 +274,7 @@
                 "language": "Nunjucks",
                 "license": null,
                 "last_commit": "2026-09-09T17:28:48Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "okfn",
                 "repo": "dataportals.org",
                 "stars": 172,
@@ -309,7 +309,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-21T16:58:05Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "dribdat",
                 "repo": "awesome-hackathon",
                 "stars": 301,
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:48:20.696Z",
+    "last_updated": "2026-09-24T08:43:18.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
