@@ -209,7 +209,7 @@
                 "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79133,
+                "stars": 79151,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -277,7 +277,7 @@
                 "open_issues": 93,
                 "owner": "okfn",
                 "repo": "dataportals.org",
-                "stars": 172,
+                "stars": 171,
                 "topics": [
                   "csv",
                   "json",
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T08:43:18.935Z",
+    "last_updated": "2026-09-25T09:03:33.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
