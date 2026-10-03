@@ -398,7 +398,7 @@ Links lead to subscription pages.
 
 Reusable code and data from Swiss journalism. Linked articles have separate access conditions and rights for text and images.
 
-* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-02 — Methods and code accompanying NZZ Visuals journalism.
+* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-03 — Methods and code accompanying NZZ Visuals journalism.
 * [SRF Data](https://srfdata.github.io/) — Code and data accompanying SRF data journalism. [Published stories](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) — Tamedia data-journalism repositories. [Interactive stories](https://interaktiv.tagesanzeiger.ch/).
 
