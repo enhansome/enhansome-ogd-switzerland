@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
-                "stars": 666,
+                "stars": 665,
                 "topics": [
                   "amazon",
                   "aws",
@@ -232,7 +232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:01:04.149Z",
+    "last_updated": "2026-10-03T04:59:36.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",

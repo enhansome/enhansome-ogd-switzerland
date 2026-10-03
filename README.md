@@ -1,16 +1,16 @@
 # Awesome Open Government Data Switzerland with stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Suggestions welcome](https://img.shields.io/badge/suggestions-welcome-brightgreen)](https://github.com/rnckp/awesome-ogd-switzerland/issues/new) ⭐ 179 | 🐛 0 | 🌐 Python | 📅 2026-09-27
+[![Suggestions welcome](https://img.shields.io/badge/suggestions-welcome-brightgreen)](https://github.com/rnckp/awesome-ogd-switzerland/issues/new)
 [![License: CC0](https://img.shields.io/badge/license-CC0-blue)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland) ⭐ 179 | 🐛 0 | 🌐 Python | 📅 2026-09-27
-[![Last commit](https://img.shields.io/github/last-commit/rnckp/awesome-ogd-switzerland)](https://github.com/rnckp/awesome-ogd-switzerland/commits/main/) ⭐ 179 | 🐛 0 | 🌐 Python | 📅 2026-09-27
+[![GitHub Stars](https://img.shields.io/github/stars/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland)
+[![Last commit](https://img.shields.io/github/last-commit/rnckp/awesome-ogd-switzerland)](https://github.com/rnckp/awesome-ogd-switzerland/commits/main/)
 
 A curated directory of Swiss Open Government Data (OGD), research, community and privately published open data, tools and learning resources. Selected European sources support comparisons with Switzerland.
 
 OGD comes from public authorities; open data can come from any publisher. Inclusion depends on relevance, provenance and reuse rights. Non-government sources are identified in descriptions or grouped under research and community headings.
 
-Know a useful resource? [Share a link](https://github.com/rnckp/awesome-ogd-switzerland/issues/new) ⭐ 179 | 🐛 0 | 🌐 Python | 📅 2026-09-27—suggestions and corrections are always welcome.
+Know a useful resource? [Share a link](https://github.com/rnckp/awesome-ogd-switzerland/issues/new)—suggestions and corrections are always welcome.
 
 <details>
 <summary><strong>Table of Contents</strong></summary>
@@ -300,7 +300,7 @@ Non-government open geodata with Swiss coverage. OSM-derived and other global pr
 
 ### Geodata discovery tools
 
-* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 666 | 🐛 0 | 🌐 Python | 📅 2026-09-16 — Community directory of geospatial datasets across cloud and catalog services. Check each dataset’s license and Swiss coverage.
+* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 665 | 🐛 0 | 🌐 Python | 📅 2026-09-16 — Community directory of geospatial datasets across cloud and catalog services. Check each dataset’s license and Swiss coverage.
 * [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) — Community discovery portal for official Swiss geodata services. [Source code](https://github.com/davidoesch/geoservice_harvester_poc) ⭐ 5 | 🐛 17 | 🌐 Python | 📅 2026-09-27.
 
 ## APIs and linked data
@@ -429,7 +429,7 @@ European catalogs and neighboring countries’ official statistics for cross-bor
 
 ### Contribute
 
-Found a useful resource, a broken link or something unclear? [Issues](https://github.com/rnckp/awesome-ogd-switzerland/issues) ⭐ 179 | 🐛 0 | 🌐 Python | 📅 2026-09-27 and [pull requests](https://github.com/rnckp/awesome-ogd-switzerland/pulls) ⭐ 179 | 🐛 0 | 🌐 Python | 📅 2026-09-27 are welcome—a link and a few words are enough. I review every suggestion, and we can work out where it fits together.
+Found a useful resource, a broken link or something unclear? [Issues](https://github.com/rnckp/awesome-ogd-switzerland/issues) and [pull requests](https://github.com/rnckp/awesome-ogd-switzerland/pulls) are welcome—a link and a few words are enough. I review every suggestion, and we can work out where it fits together.
 
 When reviewing a resource, I look for:
 
@@ -460,4 +460,4 @@ This list is released under [CC0 1.0](LICENSE). Linked resources retain their ow
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
