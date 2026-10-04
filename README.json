@@ -49,7 +49,7 @@
                 "id": 555328359,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T13:48:14Z",
+                "last_commit": "2026-10-04T09:17:09Z",
                 "open_issues": 17,
                 "owner": "davidoesch",
                 "repo": "geoservice_harvester_poc",
@@ -232,7 +232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:23:51.766Z",
+    "last_updated": "2026-10-04T10:03:19.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",

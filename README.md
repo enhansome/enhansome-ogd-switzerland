@@ -301,7 +301,7 @@ Non-government open geodata with Swiss coverage. OSM-derived and other global pr
 ### Geodata discovery tools
 
 * [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 665 | 🐛 0 | 🌐 Python | 📅 2026-09-16 — Community directory of geospatial datasets across cloud and catalog services. Check each dataset’s license and Swiss coverage.
-* [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) — Community discovery portal for official Swiss geodata services. [Source code](https://github.com/davidoesch/geoservice_harvester_poc) ⭐ 5 | 🐛 17 | 🌐 Python | 📅 2026-09-27.
+* [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) — Community discovery portal for official Swiss geodata services. [Source code](https://github.com/davidoesch/geoservice_harvester_poc) ⭐ 5 | 🐛 17 | 🌐 Python | 📅 2026-10-04.
 
 ## APIs and linked data
 
@@ -398,7 +398,7 @@ Links lead to subscription pages.
 
 Reusable code and data from Swiss journalism. Linked articles have separate access conditions and rights for text and images.
 
-* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-03 — Methods and code accompanying NZZ Visuals journalism.
+* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-04 — Methods and code accompanying NZZ Visuals journalism.
 * [SRF Data](https://srfdata.github.io/) — Code and data accompanying SRF data journalism. [Published stories](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) — Tamedia data-journalism repositories. [Interactive stories](https://interaktiv.tagesanzeiger.ch/).
 
@@ -460,4 +460,4 @@ This list is released under [CC0 1.0](LICENSE). Linked resources retain their ow
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
