@@ -301,7 +301,7 @@ Non-government open geodata with Swiss coverage. OSM-derived and other global pr
 ### Geodata discovery tools
 
 * [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 668 | 🐛 0 | 🌐 Python | 📅 2026-09-16 — Community directory of geospatial datasets across cloud and catalog services. Check each dataset’s license and Swiss coverage.
-* [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) — Community discovery portal for official Swiss geodata services. [Source code](https://github.com/davidoesch/geoservice_harvester_poc) ⭐ 5 | 🐛 17 | 🌐 Python | 📅 2026-10-18.
+* [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) — Community discovery portal for official Swiss geodata services. [Source code](https://github.com/davidoesch/geoservice_harvester_poc) ⭐ 6 | 🐛 17 | 🌐 Python | 📅 2026-10-18.
 
 ## APIs and linked data
 
@@ -336,7 +336,7 @@ Access structured, linked datasets; see service documentation for query endpoint
 ### Visualization and data clients
 
 * [Visualize](https://visualize.admin.ch) — Web tool for creating and embedding charts from compatible LINDAS datasets. [BSD-3-Clause source code](https://github.com/visualize-admin/visualization-tool) ⭐ 42 | 🐛 116 | 🌐 TypeScript | 📅 2026-10-06.
-* [BFS](https://github.com/lgnbhl/BFS) ⭐ 26 | 🐛 4 | 🌐 R | 📅 2026-10-17 — Community R client for Federal Statistical Office APIs.
+* [BFS](https://github.com/lgnbhl/BFS) ⭐ 27 | 🐛 5 | 🌐 R | 📅 2026-10-18 — Community R client for Federal Statistical Office APIs.
 * [swissparlpy](https://github.com/metaodi/swissparlpy) ⭐ 26 | 🐛 7 | 🌐 Python | 📅 2026-09-15 — Community Python client for Swiss Parliament web services.
 * [I14Y](https://github.com/lgnbhl/I14Y) ⭐ 2 | 🐛 0 | 🌐 R | 📅 2026-07-11 — Community R client for the Swiss interoperability metadata catalog.
 
@@ -398,7 +398,7 @@ Links lead to subscription pages.
 
 Reusable code and data from Swiss journalism. Linked articles have separate access conditions and rights for text and images.
 
-* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-18 — Methods and code accompanying NZZ Visuals journalism.
+* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-19 — Methods and code accompanying NZZ Visuals journalism.
 * [SRF Data](https://srfdata.github.io/) — Code and data accompanying SRF data journalism. [Published stories](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) — Tamedia data-journalism repositories. [Interactive stories](https://interaktiv.tagesanzeiger.ch/).
 
@@ -460,4 +460,4 @@ This list is released under [CC0 1.0](LICENSE). Linked resources retain their ow
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
