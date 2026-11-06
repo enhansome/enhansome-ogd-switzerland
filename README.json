@@ -83,7 +83,7 @@
                 "id": 212521978,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-05T09:47:58Z",
+                "last_commit": "2026-11-06T11:00:07Z",
                 "open_issues": 117,
                 "owner": "visualize-admin",
                 "repo": "visualization-tool",
@@ -232,7 +232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T11:26:26.581Z",
+    "last_updated": "2026-11-06T11:25:06.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
