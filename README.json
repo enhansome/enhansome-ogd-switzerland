@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
-                "stars": 669,
+                "stars": 670,
                 "topics": [
                   "amazon",
                   "aws",
@@ -47,9 +47,9 @@
                 "description": "Open Geoservice scraper proof of concept to extract info of each dataset contained in an OGC  compliant Geoservice",
                 "homepage": null,
                 "id": 555328359,
-                "language": "Python",
+                "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T14:55:40Z",
+                "last_commit": "2026-11-08T20:46:28Z",
                 "open_issues": 17,
                 "owner": "davidoesch",
                 "repo": "geoservice_harvester_poc",
@@ -83,8 +83,8 @@
                 "id": 212521978,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-06T14:22:53Z",
-                "open_issues": 117,
+                "last_commit": "2026-11-09T09:54:09Z",
+                "open_issues": 118,
                 "owner": "visualize-admin",
                 "repo": "visualization-tool",
                 "stars": 43,
@@ -232,7 +232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T10:42:48.285Z",
+    "last_updated": "2026-11-09T12:01:20.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
