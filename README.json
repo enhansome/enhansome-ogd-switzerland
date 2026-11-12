@@ -83,8 +83,8 @@
                 "id": 212521978,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-10T13:53:49Z",
-                "open_issues": 116,
+                "last_commit": "2026-11-12T11:40:12Z",
+                "open_issues": 117,
                 "owner": "visualize-admin",
                 "repo": "visualization-tool",
                 "stars": 43,
@@ -232,7 +232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:24:07.245Z",
+    "last_updated": "2026-11-12T11:45:03.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
@@ -240,7 +240,7 @@
       "id": 565448438,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-08T09:29:07Z",
+      "last_commit": "2026-11-11T11:38:35Z",
       "open_issues": 0,
       "owner": "rnckp",
       "repo": "awesome-ogd-switzerland",
@@ -268,7 +268,7 @@
         "switzerland"
       ]
     },
-    "original_repository_sha": "a80843edaa2c44f2eda14dcc4014927c6d035252",
+    "original_repository_sha": "b2def7a3617e158fa9eccc93191622495f5c607c",
     "enhanced_repository": "enhansome/enhansome-ogd-switzerland",
     "enhanced_repository_description": null,
     "title": "Awesome Open Government Data Switzerland with stars"

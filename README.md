@@ -12,6 +12,8 @@ OGD comes from public authorities; open data can come from any publisher. Inclus
 
 Know a useful resource? [Share a link](https://github.com/rnckp/awesome-ogd-switzerland/issues/new)—suggestions and corrections are always welcome.
 
+Related Swiss guides: [legal sources, datasets and tools](https://github.com/rnckp/awesome-open-legal-switzerland) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-11 and [Apertus models, tools and projects](https://github.com/rnckp/awesome-ai-switzerland) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-11-11.
+
 <details>
 <summary><strong>Table of Contents</strong></summary>
 
@@ -349,7 +351,7 @@ Access structured, linked datasets; see service documentation for query endpoint
 
 ### Visualization and data clients
 
-* [Visualize](https://visualize.admin.ch) — Web tool for creating and embedding charts from compatible LINDAS datasets. [BSD-3-Clause source code](https://github.com/visualize-admin/visualization-tool) ⭐ 43 | 🐛 116 | 🌐 TypeScript | 📅 2026-11-10.
+* [Visualize](https://visualize.admin.ch) — Web tool for creating and embedding charts from compatible LINDAS datasets. [BSD-3-Clause source code](https://github.com/visualize-admin/visualization-tool) ⭐ 43 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-12.
 * [BFS](https://github.com/lgnbhl/BFS) ⭐ 29 | 🐛 4 | 🌐 R | 📅 2026-10-20 — Community R client for Federal Statistical Office APIs.
 * [swissparlpy](https://github.com/metaodi/swissparlpy) ⭐ 26 | 🐛 7 | 🌐 Python | 📅 2026-09-15 — Community Python client for Swiss Parliament web services.
 * [I14Y](https://github.com/lgnbhl/I14Y) ⭐ 2 | 🐛 0 | 🌐 R | 📅 2026-07-11 — Community R client for the Swiss interoperability metadata catalog.
@@ -414,7 +416,7 @@ Links lead to subscription pages.
 
 Reusable code and data from Swiss journalism. Linked articles have separate access conditions and rights for text and images.
 
-* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-11 — Methods and code accompanying NZZ Visuals journalism.
+* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-12 — Methods and code accompanying NZZ Visuals journalism.
 * [SRF Data](https://srfdata.github.io/) — Code and data accompanying SRF data journalism. [Published stories](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) — Tamedia data-journalism repositories. [Interactive stories](https://interaktiv.tagesanzeiger.ch/).
 
@@ -476,4 +478,4 @@ This list is released under [CC0 1.0](LICENSE). Linked resources retain their ow
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
