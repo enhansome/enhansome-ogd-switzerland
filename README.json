@@ -17,7 +17,7 @@
                 "id": 581298174,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-16T04:57:14Z",
+                "last_commit": "2026-11-17T04:56:53Z",
                 "open_issues": 0,
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
@@ -53,7 +53,7 @@
                 "open_issues": 17,
                 "owner": "davidoesch",
                 "repo": "geoservice_harvester_poc",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:42.708Z"
@@ -232,7 +232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T11:58:23.652Z",
+    "last_updated": "2026-11-17T12:22:35.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
