@@ -318,7 +318,7 @@ Non-government open geodata with Swiss coverage. OSM-derived and other global pr
 
 ### Geodata discovery tools
 
-* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 672 | 🐛 0 | 🌐 Python | 📅 2026-11-19 — Community directory of geospatial datasets across cloud and catalog services. Check each dataset’s license and Swiss coverage.
+* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 672 | 🐛 0 | 🌐 Python | 📅 2026-11-20 — Community directory of geospatial datasets across cloud and catalog services. Check each dataset’s license and Swiss coverage.
 * [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) — Community discovery portal for official Swiss geodata services. [Source code](https://github.com/davidoesch/geoservice_harvester_poc) ⭐ 7 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-15.
 
 ## APIs and linked data
@@ -364,7 +364,7 @@ Access structured, linked datasets; see service documentation for query endpoint
 
 Software and repository indexes. Check each project’s license; listing does not establish open-source status.
 
-* [Federal Open Source GitHub Index](https://github.com/swiss/index) ⭐ 32 | 🐛 0 | 📅 2026-10-01 — Directory of Swiss Confederation GitHub organizations.
+* [Federal Open Source GitHub Index](https://github.com/swiss/index) ⭐ 33 | 🐛 0 | 📅 2026-10-01 — Directory of Swiss Confederation GitHub organizations.
 * [adminR Code Base](https://github.com/swiss-adminR/pkgs) ⭐ 9 | 🐛 2 | 📅 2022-10-25 — R packages and reusable code created by Swiss public institutions.
 * [Swiss federal OSS catalog](https://www.opensource.admin.ch/) — Software published by federal and cantonal authorities. Includes repository and license information.
 * [Swiss OSS Benchmark](https://ossbenchmark.com/institutions) — Directory of source-code repositories and organizations from Swiss institutions.
@@ -419,7 +419,7 @@ Links lead to subscription pages.
 
 Reusable code and data from Swiss journalism. Linked articles have separate access conditions and rights for text and images.
 
-* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-19 — Methods and code accompanying NZZ Visuals journalism.
+* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-20 — Methods and code accompanying NZZ Visuals journalism.
 * [SRF Data](https://srfdata.github.io/) — Code and data accompanying SRF data journalism. [Published stories](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) — Tamedia data-journalism repositories. [Interactive stories](https://interaktiv.tagesanzeiger.ch/).
 
@@ -481,4 +481,4 @@ This list is released under [CC0 1.0](LICENSE). Linked resources retain their ow
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
