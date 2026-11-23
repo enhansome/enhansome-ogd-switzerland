@@ -318,7 +318,7 @@ Non-government open geodata with Swiss coverage. OSM-derived and other global pr
 
 ### Geodata discovery tools
 
-* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 672 | 🐛 0 | 🌐 Python | 📅 2026-11-22 — Community directory of geospatial datasets across cloud and catalog services. Check each dataset’s license and Swiss coverage.
+* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) ⭐ 672 | 🐛 0 | 🌐 Python | 📅 2026-11-23 — Community directory of geospatial datasets across cloud and catalog services. Check each dataset’s license and Swiss coverage.
 * [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) — Community discovery portal for official Swiss geodata services. [Source code](https://github.com/davidoesch/geoservice_harvester_poc) ⭐ 7 | 🐛 17 | 🌐 Python | 📅 2026-11-22.
 
 ## APIs and linked data
@@ -336,7 +336,7 @@ API links appear beside source entries; selected interfaces for common workflows
 * [SFOE APIs](https://www.bfe.admin.ch/de/api) — Federal Office of Energy interface directory covering energy and mobility services.
 * [Overpass API (with Overpass QL)](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) — Query OpenStreetMap data using Overpass QL. [Swiss restaurant query example](https://osm.li/Oqg).
 * [Postpass](https://wiki.openstreetmap.org/wiki/Postpass) — Query OpenStreetMap data using SQL over PostGIS. [Restaurant query example](https://overpass-turbo.eu/s/2qpD).
-* [OpenERZ](https://github.com/metaodi/openerz) ⭐ 33 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-13 — Community API for municipal waste-collection schedules in Switzerland. Includes Python client source code.
+* [OpenERZ](https://github.com/metaodi/openerz) ⭐ 34 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-13 — Community API for municipal waste-collection schedules in Switzerland. Includes Python client source code.
 * [OpenPLZ API](https://www.openplzapi.org/en/) — Community street and postal-code directory for Switzerland, Liechtenstein, Austria and Germany.
 * [OpenHolidays API](https://www.openholidaysapi.org/en/) — Community public-holiday and school-holiday data. REST API documentation lists supported countries.
 
@@ -364,7 +364,7 @@ Access structured, linked datasets; see service documentation for query endpoint
 
 Software and repository indexes. Check each project’s license; listing does not establish open-source status.
 
-* [Federal Open Source GitHub Index](https://github.com/swiss/index) ⭐ 33 | 🐛 0 | 📅 2026-10-01 — Directory of Swiss Confederation GitHub organizations.
+* [Federal Open Source GitHub Index](https://github.com/swiss/index) ⭐ 34 | 🐛 0 | 📅 2026-10-01 — Directory of Swiss Confederation GitHub organizations.
 * [adminR Code Base](https://github.com/swiss-adminR/pkgs) ⭐ 9 | 🐛 2 | 📅 2022-10-25 — R packages and reusable code created by Swiss public institutions.
 * [Swiss federal OSS catalog](https://www.opensource.admin.ch/) — Software published by federal and cantonal authorities. Includes repository and license information.
 * [Swiss OSS Benchmark](https://ossbenchmark.com/institutions) — Directory of source-code repositories and organizations from Swiss institutions.
@@ -419,7 +419,7 @@ Links lead to subscription pages.
 
 Reusable code and data from Swiss journalism. Linked articles have separate access conditions and rights for text and images.
 
-* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-22 — Methods and code accompanying NZZ Visuals journalism.
+* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) ⭐ 56 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-23 — Methods and code accompanying NZZ Visuals journalism.
 * [SRF Data](https://srfdata.github.io/) — Code and data accompanying SRF data journalism. [Published stories](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) — Tamedia data-journalism repositories. [Interactive stories](https://interaktiv.tagesanzeiger.ch/).
 
@@ -481,4 +481,4 @@ This list is released under [CC0 1.0](LICENSE). Linked resources retain their ow
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
