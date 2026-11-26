@@ -17,7 +17,7 @@
                 "id": 581298174,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-25T04:56:57Z",
+                "last_commit": "2026-11-26T04:56:44Z",
                 "open_issues": 0,
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
@@ -83,8 +83,8 @@
                 "id": 212521978,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-25T12:33:35Z",
-                "open_issues": 123,
+                "last_commit": "2026-11-25T15:24:55Z",
+                "open_issues": 125,
                 "owner": "visualize-admin",
                 "repo": "visualization-tool",
                 "stars": 43,
@@ -192,7 +192,7 @@
                 "id": 811515419,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-01T14:59:23Z",
+                "last_commit": "2026-11-26T11:14:57Z",
                 "open_issues": 0,
                 "owner": "swiss",
                 "repo": "index",
@@ -232,7 +232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T13:24:31.336Z",
+    "last_updated": "2026-11-26T13:03:31.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
