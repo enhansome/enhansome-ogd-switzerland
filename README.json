@@ -17,7 +17,7 @@
                 "id": 581298174,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-26T04:56:44Z",
+                "last_commit": "2026-11-27T04:56:55Z",
                 "open_issues": 0,
                 "owner": "opengeos",
                 "repo": "geospatial-data-catalogs",
@@ -57,11 +57,39 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:42.708Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cadence Maps",
+              "description": "MIT-licensed pipeline from an OST bachelor’s project that converts OpenStreetMap points of interest and administrative boundaries to GeoParquet for Switzerland, Germany, Austria and Liechtenstein.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A modular pipeline for converting OpenStreetMap data into cloud-native GeoParquet files using DuckDB, PostGIS, and Docker.",
+                "homepage": "https://cadencemaps.infs.ch/",
+                "id": 1013383222,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2025-07-03T20:07:46Z",
+                "open_issues": 0,
+                "owner": "FadilSmajilbasic",
+                "repo": "cadence-maps",
+                "stars": 0,
+                "topics": [
+                  "cicd",
+                  "docker",
+                  "duckdb",
+                  "geoparquet",
+                  "geospatial",
+                  "openstreetmap"
+                ]
+              },
+              "first_seen": "2026-11-27T13:01:30.374Z"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Geodata discovery tools"
+          "title": "Geodata tools and directories"
         }
       ],
       "title": "Geospatial data"
@@ -83,8 +111,8 @@
                 "id": 212521978,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-25T15:24:55Z",
-                "open_issues": 125,
+                "last_commit": "2026-11-27T12:37:13Z",
+                "open_issues": 126,
                 "owner": "visualize-admin",
                 "repo": "visualization-tool",
                 "stars": 43,
@@ -182,6 +210,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SIARD Suite",
+              "description": "Swiss Federal Archives software for exporting relational databases to the open SIARD archive format and restoring them to a database. CDDL-1.0 source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 536540118,
+                "language": "Java",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-27T12:06:08Z",
+                "open_issues": 57,
+                "owner": "sfa-siard-suite",
+                "repo": "siard-suite",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-11-27T13:01:30.374Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data preservation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Federal Open Source GitHub Index",
               "description": "Directory of Swiss Confederation GitHub organizations.",
               "children": [],
@@ -232,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:03:31.671Z",
+    "last_updated": "2026-11-27T13:01:30.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.",
@@ -240,7 +296,7 @@
       "id": 565448438,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-18T11:01:26Z",
+      "last_commit": "2026-11-27T11:29:07Z",
       "open_issues": 0,
       "owner": "rnckp",
       "repo": "awesome-ogd-switzerland",
@@ -268,7 +324,7 @@
         "switzerland"
       ]
     },
-    "original_repository_sha": "740fb1b3dcbf194a5c3efb8bf11ca84635fe14a8",
+    "original_repository_sha": "95e9ea42d8347c61f59df8ee21f952f1d739d2cd",
     "enhanced_repository": "enhansome/enhansome-ogd-switzerland",
     "enhanced_repository_description": null,
     "title": "Awesome Open Government Data Switzerland with stars"
